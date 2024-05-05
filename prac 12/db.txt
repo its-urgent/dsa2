@@ -1,0 +1,4 @@
+Employee ID         Name                educataion          salary              
+1                   ayush               manager             1rs                 
+2                   boss                suraj               -1rs                
+3                   himachu             zhadu               7 crore                
